@@ -1,2 +1,2 @@
 # DiscordPresence
- Advanced presence bot
+ Discord advanced presence bot.
