@@ -6,12 +6,6 @@ import club.minnced.discord.rpc.DiscordRichPresence;
 import club.minnced.discord.rpc.DiscordUser;
 
 public class Bot {
-	public class Update extends Thread {
-		@Override
-		public void run() {
-			
-		}
-	}
 	
 	public static void main(String args[]) {
 		System.out.println("Sistem çalýþtýrýlýyor.");
